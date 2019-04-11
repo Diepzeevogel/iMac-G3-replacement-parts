@@ -5,10 +5,10 @@ I will also add mounting points for an LCD display.
 
 ### To do list:
 1. Replacement parts
-..* IO 'shield'
-..* Backplate (access panel for RAM or video port in the original)
+* IO 'shield'
+* Backplate (access panel for RAM or video port in the original)
 2. New parts
-..* LCD mount
-..* Mounts for m-ITX board, SFF-PSU, GPU and HDD/SSD
+* LCD mount
+* Mounts for m-ITX board, SFF-PSU, GPU and HDD/SSD
 
 
