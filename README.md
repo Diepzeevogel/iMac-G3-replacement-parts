@@ -5,7 +5,7 @@ I will also add mounting points for an LCD display.
 
 ### To do list:
 1. Replacement parts
-* IO 'shield'
+* ~IO 'shield'~ (V1 ready to print)
 * Backplate (access panel for RAM or video port in the original)
 2. New parts
 * LCD mount
