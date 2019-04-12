@@ -22,6 +22,10 @@ I will also add mounting points for an LCD display.
 * ~Left and right edges are too high => about 6mm on the top surface.~
 * ~Mounting holes on the bottom do not align => about 1mm lower.~
 * ~Mounting holes on the bottom need to be thinner to fit in between outer bezel and metal frame.~ (from 3mm to 1.5)
+#### After attempt 4 (bottom left):
+* Curve from left to right still isn't perfect, but it fits good enough for me.
+* Bottom right part should have a surface for power button to rest against.
+* **Time to try and fit the top, fingers crossed**
 
 
 
