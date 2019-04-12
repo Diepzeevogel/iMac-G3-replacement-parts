@@ -16,8 +16,13 @@ I will also add mounting points for an LCD display.
 * ~Curve Left-Right is 2mm too high near the center of each part. => Mount to outer bezel too high as well.~
 * ~Curve around the display in base shape is too small, should curve more to fill in the edges.~ (From 6 to 9mm)
 * ~Part did not include holes for assembly in the middle.~ (Maybe look for another solution as well)
-* Left and right edge can grow 1 or 2mm towards the outside.
-* Try printing top part next time to see if upper curve fits + where mounting holes need to go.
+* Left and right edge can grow 1 or 2mm towards the outside. **I like a little breathing room**
+* Try printing top part next time to see if upper curve fits + where mounting holes need to go. **Only when bottom part fits**
+#### After attempt 3 (bottom left):
+* ~Left and right edges are too high => about 6mm on the top surface.~
+* ~Mounting holes on the bottom do not align => about 1mm lower.~
+* ~Mounting holes on the bottom need to be thinner to fit in between outer bezel and metal frame.~ (from 3mm to 1.5)
 
 
 
+ 
