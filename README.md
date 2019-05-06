@@ -3,15 +3,16 @@ These files are an attempt at recreating some of the parts of an iMac G3 for a c
 My inner bezel shattered while disassembling, so a replacement was needed. 
 I will also add mounting points for an LCD display.
 
-### To do list:
+## To do list:
 1. Replacement parts
-* ~IO 'shield'~ (V1 ready to print)
+* ~IO 'shield'~ (Overall shape correct, only mounting mechanism and port selection left)
 * Backplate (access panel for RAM or video port in the original)
 2. New parts
 * LCD mount
 * Mounts for m-ITX board, SFF-PSU, GPU and HDD/SSD
 
-### Notes:
+## Notes:
+### Bezel:
 #### After attempt 2 (bottom left):
 * ~Curve Left-Right is 2mm too high near the center of each part. => Mount to outer bezel too high as well.~
 * ~Curve around the display in base shape is too small, should curve more to fill in the edges.~ (From 6 to 9mm)
@@ -29,5 +30,9 @@ I will also add mounting points for an LCD display.
 #### After attempt 5 (top left):
 * Top curve too far inward.
 
-
+### IO Shield:
+#### After attempt 2: 
+* Curve is more or less there, not perfect, but good enough.
+* Size is also pretty close.
+* Angle of ports is not right yet. Need to measure again.
  
